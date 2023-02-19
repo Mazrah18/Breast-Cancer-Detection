@@ -1,4 +1,5 @@
 # Breast-Cancer-Detection-using-Multilayer-Perceptron\
+The code contains the original ipython file where the code was written along with the equivalent .py file./
 
 1.	Precise Input settings:
 a.	For the method-2 implementation of the breast cancer detection dataset using the deep learning method of MultiLayer Perceptron model, the existing model of sklearn has been utilized. Some input parameters have been modified, while others have remained unchanged. The input settings used for this implementation are as follows:
