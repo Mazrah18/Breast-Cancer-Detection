@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection-using-Multilayer-Perceptron
+# Breast-Cancer-Detection
 The code contains the original ipython file where the code was written along with the equivalent .py file.
 
 1.	Precise Input settings:
